@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amannohara
 - 👀 I’m interested in Games,software developing
 - 🌱 I’m currently learning C++, DSA
-- 📫 How to reach me Email: amankumar40305@gmail.com
 - 😄 Pronouns: He/Him
 
 
